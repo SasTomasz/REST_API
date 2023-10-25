@@ -6,7 +6,7 @@ authors = ["Tomasz Sas <tomaszsas.dev@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
 pytest = "^7.4.3"
 requests = "^2.31.0"
 pedantic = "^2.1.2"
